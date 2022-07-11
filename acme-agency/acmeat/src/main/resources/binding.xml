@@ -1,0 +1,5 @@
+<bindings
+        wsdlLocation="bankService.wsdl"
+        xmlns="http://java.sun.com/xml/ns/jaxws">
+    <enableWrapperStyle>false</enableWrapperStyle>
+</bindings>
