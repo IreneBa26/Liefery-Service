@@ -1,0 +1,16 @@
+Click
+Flask
+Flask-RESTful
+itsdangerous
+Jinja2
+MarkupSafe
+more-itertools
+pluggy
+py
+pytest
+python-dateutil
+pytz
+relativetimebuilder
+six
+wcwidth
+Werkzeug
