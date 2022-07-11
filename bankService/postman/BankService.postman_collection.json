@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "73cc3986-6f45-4489-a4da-6c6480a01302",
+		"name": "BankService",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GetToken",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:10001/bank/name/debug/price/19.0",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "10001",
+					"path": [
+						"bank",
+						"name",
+						"debug",
+						"price",
+						"19.0"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
